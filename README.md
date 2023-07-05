@@ -7,7 +7,7 @@
 3. Click  the button "Add Project"
 4. Add a project  Name
 5. Disable "Enable Google Analytics for this project" and click "Create project"
-6. Create new Real Time Database <img src="assets/realTimeDB.png" width="50%" height="50%">
+6. Create new Real Time Database <br><img src="assets/realTimeDB.png" width="50%" height="50%">
 7. Click  The Button  "Create Database"
 8. Select the desired Location and click "Next"
 9. Select Test Mode and click Enable <img src="assets/testMode.png" width="50%" height="50%">
