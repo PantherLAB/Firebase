@@ -23,7 +23,13 @@
 
 ## Using Firebase API
 
-1. Open Sign In Example.vi and update the "API_KEY" and "Firebase URL" with the ones obtained in the previous steps <br><img src="assets/SignUPFirebase.png" width="50%" height="50%">
+### Autenticate a new User
+
+Open Sign In Example.vi and update the "API_KEY" and "Firebase URL" with the ones obtained in the previous steps <br><img src="assets/SignUPFirebase.png" width="50%" height="50%">
 
 This Example will add your USER to the autenticated Users list <br><img src="assets/AutenticatedUserList.png" width="50%" height="50%">
+
+### Post to Real Time DB
+
+Open Log in and Post.vi Example, use your "API_KEY", "Firebase URL" and your Authenticated user to POST something to your Real Time Database, in this example we published a cluster called data, data is the endPoint name <br><img src="assets/logInPost.png" width="50%" height="50%">
 
