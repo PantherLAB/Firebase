@@ -33,3 +33,8 @@ This Example will add your USER to the autenticated Users list <br><img src="ass
 
 Open Log in and Post.vi Example, use your "API_KEY", "Firebase URL" and your Authenticated user to POST something to your Real Time Database, in this example we published a cluster called data, data is the endPoint name <br><img src="assets/logInPost.png" width="50%" height="50%">
 
+### Editing your Rules
+
+Until this point your Real Time Database is open to any autenticated user, we can create rules to match our neads, for example, if this database is meant to be used by a company we can create rules to allow reading and/or writting for an specific domain<br><img src="assets/rules.png" width="50%" height="50%">
+
+
