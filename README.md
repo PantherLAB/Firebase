@@ -16,6 +16,6 @@
 ## How to enable Authentication:
 
 1. Select Authentication and click "Get Started" ![Authentication](assets/authentication.png) and click "Get Started"
-2. Select Sign-in method tab and click the "Email/Password" Button ![Authentication](assets/SignInProvidersEmail.png)
+2. Select Sign-in method tab and click the "Email/Password" Button ![Authentication](assets/SignInProvidersEmail.png) <img src="assets/SignInProviders.png" width="40%" height="40%">
 3. Click the Enable "Email/Password" Checkbox and click the "Save" Button
 4. Go to the Project Overview (click the gear button) and select "Project Settings", find the Web API Key and copy that ![webAPIkey](assets/webAPIkey.png)
