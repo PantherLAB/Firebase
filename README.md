@@ -10,12 +10,12 @@
 6. Create new Real Time Database ![Realtime DB](assets/realTimeDB.png)
 7. Click  The Button  "Create Database"
 8. Select the desired Location and click "Next"
-9. Select Test Mode ![Test Mode](assets/testMode.png) and click Enable
+9. Select Test Mode and click Enable ![Test Mode](assets/testMode.png) 
 10. Locate the DB URL and the rules editor ![database URL](assets/databaseURL.png) This is the Firebase URL to be used by the API
 
 ## How to enable Authentication:
 
-1. Select Authentication ![Authentication](assets/authentication.png) and click "Get Started"
-2. Select Sign-in method tab ![Authentication](assets/SignInProvidersEmail.png)and click the "Email/Password" Button
+1. Select Authentication and click "Get Started" ![Authentication](assets/authentication.png) and click "Get Started"
+2. Select Sign-in method tab and click the "Email/Password" Button ![Authentication](assets/SignInProvidersEmail.png)
 3. Click the Enable "Email/Password" Checkbox and click the "Save" Button
-4. Go to the Project Overview-> General ![webAPIkey](assets/webAPIkey.png) and copy that, this 
+4. Go to the Project Overview (click the gear button) and select "Project Settings", find the Web API Key and copy that ![webAPIkey](assets/webAPIkey.png)
