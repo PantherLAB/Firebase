@@ -37,13 +37,16 @@ Open Log in and Post.vi Example, use your "API_KEY", "Firebase URL" and your Aut
 
 Until this point your Real Time Database is open to any autenticated user, we can create rules to match our neads, for example, if this database is meant to be used by a company we can create rules to allow reading and/or writting for an specific domain<br><img src="assets/rules.png" width="50%" height="50%">
 
-Rules Example 1, allow writting and reading from specific domain  users:
+Rules Example 1, allow writting and reading from specific domain  users:<br>
+```
 {
   "rules": {
     ".read": "auth.token.email.endsWith('@domain.com')",  
     ".write": "auth.token.email.endsWith('@domain.com')",  
   }
 }
+```
+
 
 For more rules examples go to:
 https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98
