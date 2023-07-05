@@ -48,8 +48,8 @@ Rules Example 1, allow writting and reading from specific domain  users:<br>
 ```
 
 
-For more rules examples go to:
-https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98
-https://firebase.google.com/docs/rules
+For more rules examples go to:<br>
+https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98<br>
+https://firebase.google.com/docs/rules<br>
 
 
