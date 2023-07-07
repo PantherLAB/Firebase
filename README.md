@@ -46,7 +46,19 @@ Rules Example 1, allow writting and reading from specific domain  users:<br>
   }
 }
 ```
-
+Rules Example 2, allow writting and reading from specific domain and filtering enabled to search under data/date
+```
+{
+  "rules": {
+    "data" : {
+                ".indexOn": ["date"]
+            },
+     ".read": "auth.token.email.endsWith('@domain.com')",  
+     ".write": "auth.token.email.endsWith('@domain.com')",  
+    
+  }
+}
+```
 
 For more rules examples go to:<br>
 https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98<br>
