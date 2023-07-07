@@ -14,6 +14,7 @@
 		<Item Name="firebase.lvclass" Type="LVClass" URL="../firebase/firebase.lvclass"/>
 		<Item Name="Log in and Post.vi" Type="VI" URL="../firebase/Log in and Post.vi"/>
 		<Item Name="Log in with Email and Password.vi" Type="VI" URL="../firebase/Log in with Email and Password.vi"/>
+		<Item Name="Login and Get.vi" Type="VI" URL="../firebase/Login and Get.vi"/>
 		<Item Name="Sign In Example.vi" Type="VI" URL="../firebase/Sign In Example.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
