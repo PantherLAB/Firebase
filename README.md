@@ -12,7 +12,7 @@
 ![image](https://github.com/PantherLAB/Firebase/assets/5545396/66733bd9-bc42-4e9b-bb83-06b1c888bb1f)
 
 9. Select the desired Location and click "Next"
-10. Select Test Mode and click Enable <br><img src="assets/testMode.png" width="50%" height="50%">
+10. Select "Start in Test Mode" and click Enable <br><img src="assets/testMode.png" width="50%" height="50%">
 11. Locate the DB URL and the rules editor This is the "Firebase URL" to be used by the API <br><img src="assets/databaseURL.png" width="50%" height="50%">
 
 ## How to enable Authentication:
