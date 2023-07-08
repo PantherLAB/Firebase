@@ -9,9 +9,11 @@
 5. Disable "Enable Google Analytics for this project" checkbox and click "Create project"
 6. Create a new Real Time Database <br><img src="assets/realTimeDB.png" width="40%" height="40%">
 7. Click  The Button  "Create Database"
-8. Select the desired Location and click "Next"
-9. Select Test Mode and click Enable <br><img src="assets/testMode.png" width="50%" height="50%">
-10. Locate the DB URL and the rules editor This is the "Firebase URL" to be used by the API <br><img src="assets/databaseURL.png" width="50%" height="50%">
+![image](https://github.com/PantherLAB/Firebase/assets/5545396/66733bd9-bc42-4e9b-bb83-06b1c888bb1f)
+
+9. Select the desired Location and click "Next"
+10. Select Test Mode and click Enable <br><img src="assets/testMode.png" width="50%" height="50%">
+11. Locate the DB URL and the rules editor This is the "Firebase URL" to be used by the API <br><img src="assets/databaseURL.png" width="50%" height="50%">
 
 ## How to enable Authentication:
 
