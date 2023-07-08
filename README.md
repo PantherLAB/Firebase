@@ -62,6 +62,11 @@ Rules Example 2, allow writting and reading from specific domain and filtering e
   }
 }
 ```
+After you instal the VIPM Package there is an example provided for you, just drag it into your Block diagram and test it after setup your Firebase Database.
+
+https://github.com/PantherLAB/Firebase/assets/5545396/ce6f4c28-2b27-4b92-8f17-094af907139e
+
+
 
 For more rules examples go to:<br>
 https://medium.com/@juliomacr/10-firebase-realtime-database-rule-templates-d4894a118a98<br>
