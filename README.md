@@ -1,3 +1,5 @@
+<a href="https://www.vipm.io/package/pantherlab_lib_firebase_api/"> <img src="https://www.vipm.io/package/pantherlab_lib_firebase_api/badge.svg?metric=installs"></a> <a href="https://www.vipm.io/package/pantherlab_lib_firebase_api/"><img src="https://www.vipm.io/package/pantherlab_lib_firebase_api/badge.svg?metric=stars"></a>
+
 # firebase-api
 
 ## How to create  a firebase project:
