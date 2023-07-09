@@ -66,8 +66,10 @@ Rules Example 2, allow writting and reading from specific domain and filtering e
 ```
 After you instal the VIPM Package there is an example provided for you, just drag it into your Block diagram and test it after setup your Firebase Database.
 
-https://github.com/PantherLAB/Firebase/assets/5545396/ce6f4c28-2b27-4b92-8f17-094af907139e
 
+
+
+[![Watch the Tutorial](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://youtu.be/vDQ-mFWDiUk)
 
 
 For more rules examples go to:<br>
