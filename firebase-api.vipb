@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-07-12 10:21:22" Creator="Fabiola De la Cueva" Comments="" ID="ca20b1c3f3e8b3555c9fb31061115ae0">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-07-12 10:37:21" Creator="Fabiola De la Cueva" Comments="" ID="2fdfe5f6434d8c7f347dcff30f1dfa80">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Firebase_API</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>firebase</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\Package\Firebase API</Library_Output_Folder>
@@ -339,7 +339,7 @@ ____
         <Path>firebase\Delete.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4646A61AF1EBF86F6BCC41FF319DDD74</GUID>
+      <GUID>013C5A6974731C8B0335E99C8CF03FF0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
