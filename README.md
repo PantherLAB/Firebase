@@ -11,7 +11,7 @@
 5. Disable "Enable Google Analytics for this project" checkbox and click "Create project"
 6. Create a new Real Time Database <br><img src="assets/realTimeDB.png" width="60%" height="60%">
 7. Click  The Button  "Create Database"
-![image](https://github.com/PantherLAB/Firebase/assets/5545396/66733bd9-bc42-4e9b-bb83-06b1c888bb1f)
+![image](https://github.com/PantherLAB/Firebase/assets/5545396/0fd69ed4-872c-42f7-8af2-3fa4158c386a)
 
 8. Select the desired Location and click "Next"
 9. Select "Start in Test Mode" and click Enable <br><img src="assets/testMode.png" width="80%" height="80%">
@@ -20,7 +20,8 @@
 ## How to enable Authentication:
 
 1. Select Authentication and click "Get Started"
-   ![image](https://github.com/PantherLAB/Firebase/assets/5545396/40632e92-df02-41e8-a15d-efc5da8d0da8)
+![image](https://github.com/PantherLAB/Firebase/assets/5545396/23b28bea-c3d7-4a26-baac-e35543ac3c88)
+
 
 2. Select Sign-in method tab and click the "Email/Password" Button and then click "Save" Button <br><img src="assets/SignInProviders.png" width="80%" height="80%">
 3. Go to the Project Overview (click the gear button) and select "Project Settings", find the Web "API_Key" <br><img src="assets/webAPIkey.png" width="80%" height="80%">
