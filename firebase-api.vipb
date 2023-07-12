@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-07-09 08:30:03" Creator="Fabiola De la Cueva" Comments="" ID="1a1e96c9ec2187d9c249c4d968e1eba0">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-07-12 10:21:22" Creator="Fabiola De la Cueva" Comments="" ID="ca20b1c3f3e8b3555c9fb31061115ae0">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Firebase_API</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>firebase</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\Package\Firebase API</Library_Output_Folder>
@@ -39,11 +39,9 @@
       <Copyright/>
       <Packager>Enrique Noe &amp; Sam Taggart</Packager>
       <URL>https://github.com/PantherLAB/Firebase</URL>
-      <Release_Notes>Firebase Initial Release.
-
-For instructions on how to get started:
-
-https://github.com/PantherLAB/Firebase</Release_Notes>
+      <Release_Notes>Added DELETE verb
+Fixed Issue with POST verb trying to parse response, the response could be different depending on the data being posted.
+Example Updated.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -327,7 +325,21 @@ ____
         <Path>firebase\Post.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B41650053147B54D5DA1E3A7A8AC4C6</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Delete.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>5</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>firebase\Delete.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>4646A61AF1EBF86F6BCC41FF319DDD74</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
