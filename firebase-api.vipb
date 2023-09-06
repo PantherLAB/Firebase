@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-07-12 10:37:21" Creator="Fabiola De la Cueva" Comments="" ID="2fdfe5f6434d8c7f347dcff30f1dfa80">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-09-05 18:03:44" Creator="Fabiola De la Cueva" Comments="" ID="e0f628aecd6859abf3a4f903fa72213a">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Firebase_API</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>firebase</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\..\Package\Firebase API</Library_Output_Folder>
@@ -19,10 +19,10 @@
     <Package_Dependencies>
       <External_Dependencies>jdp_science_jsontext &gt;= 1.7.0.118</External_Dependencies>
       <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.4.1.18</External_Dependencies>
-      <External_Dependencies>ni_lib_advanced_http_client_api &gt;= 1.0.0.4</External_Dependencies>
+      <External_Dependencies>ni_lib_advanced_http_client_api &gt;= 1.0.1.5</External_Dependencies>
       <Direct_Dependencies>jdp_science_jsontext-1.7.0.118</Direct_Dependencies>
       <Direct_Dependencies>jdp_science_lib_common_utilities-1.4.1.18</Direct_Dependencies>
-      <Direct_Dependencies>ni_lib_advanced_http_client_api-1.0.0.4</Direct_Dependencies>
+      <Direct_Dependencies>ni_lib_advanced_http_client_api-1.0.1.5</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -39,9 +39,8 @@
       <Copyright/>
       <Packager>Enrique Noe &amp; Sam Taggart</Packager>
       <URL>https://github.com/PantherLAB/Firebase</URL>
-      <Release_Notes>Added DELETE verb
-Fixed Issue with POST verb trying to parse response, the response could be different depending on the data being posted.
-Example Updated.</Release_Notes>
+      <Release_Notes>Update HTTP Library.
+Managed connection reference internally.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -339,7 +338,7 @@ ____
         <Path>firebase\Delete.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>013C5A6974731C8B0335E99C8CF03FF0</GUID>
+      <GUID>4EF78468824EF08E78186B1C07C33A8C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
