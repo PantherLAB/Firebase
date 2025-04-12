@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2023-09-05 18:03:44" Creator="Fabiola De la Cueva" Comments="" ID="e0f628aecd6859abf3a4f903fa72213a">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-04-27 15:52:22" Modified_Date="2025-04-12 11:56:27" Creator="Fabiola De la Cueva" Comments="" ID="8db906821e8f227aa9c6d5e8d07e0b14">
   <Library_General_Settings>
     <Package_File_Name>PantherLAB_lib_Firebase_API</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>firebase</Library_Source_Folder>
-    <Library_Output_Folder>..\..\..\..\Package\Firebase API</Library_Output_Folder>
+    <Library_Output_Folder>Z:\GitClones\Package\Firebase API</Library_Output_Folder>
     <Company_Name>PantherLAB</Company_Name>
     <Library_Summary/>
     <Library_License>BSD</Library_License>
@@ -17,12 +17,12 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>jdp_science_jsontext &gt;= 1.7.0.118</External_Dependencies>
+      <External_Dependencies>jdp_science_jsontext &gt;= 1.9.1.125</External_Dependencies>
       <External_Dependencies>jdp_science_lib_common_utilities &gt;= 1.4.1.18</External_Dependencies>
-      <External_Dependencies>ni_lib_advanced_http_client_api &gt;= 1.0.1.5</External_Dependencies>
-      <Direct_Dependencies>jdp_science_jsontext-1.7.0.118</Direct_Dependencies>
+      <External_Dependencies>ni_lib_advanced_http_client_api &gt;= 1.1.0.6</External_Dependencies>
+      <Direct_Dependencies>jdp_science_jsontext-1.9.1.125</Direct_Dependencies>
       <Direct_Dependencies>jdp_science_lib_common_utilities-1.4.1.18</Direct_Dependencies>
-      <Direct_Dependencies>ni_lib_advanced_http_client_api-1.0.1.5</Direct_Dependencies>
+      <Direct_Dependencies>ni_lib_advanced_http_client_api-1.1.0.6</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -39,8 +39,7 @@
       <Copyright/>
       <Packager>Enrique Noe &amp; Sam Taggart</Packager>
       <URL>https://github.com/PantherLAB/Firebase</URL>
-      <Release_Notes>Update HTTP Library.
-Managed connection reference internally.</Release_Notes>
+      <Release_Notes>Example Improved.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -125,6 +124,11 @@ Managed connection reference internally.</Release_Notes>
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace>PantherLAB_lib_</Namespace>
       </Namespace_Overrides>
+      <Namespace_Overrides>
+        <Path>firebase.lvclass</Path>
+        <Namespace_Type>Prefix</Namespace_Type>
+        <Namespace>PantherLAB_lib_</Namespace>
+      </Namespace_Overrides>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -195,7 +199,7 @@ ____
   <Library_Palette_Definition>
     <Functions_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
-      <Name>firebase</Name>
+      <Name>Firebase</Name>
       <View_Format>Icons</View_Format>
       <Size>
         <Height_Row>3</Height_Row>
@@ -338,7 +342,7 @@ ____
         <Path>firebase\Delete.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4EF78468824EF08E78186B1C07C33A8C</GUID>
+      <GUID>F2337D55AD90BE53EB66A5B9063DFCB0</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
